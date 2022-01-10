@@ -9,6 +9,9 @@ mlopsUdemy_venv/*
 # C extensions
 *.so
 
+
+test.txt
+
 # Distribution / packaging
 .Python
 build/
