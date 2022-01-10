@@ -1,4 +1,4 @@
---extra-index-url=${PIP_EXTRA_INDEX_URL}
+-r requirements.txt
 
 # testing requirements
 pytest>=6.2.3,<6.3.0
