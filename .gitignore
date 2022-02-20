@@ -3,11 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#venv
-mlopsUdemy_venv
 
+test.txt
+mlopsUdemy_venv/*
 # C extensions
 *.so
+
+
+test.txt
 
 # Distribution / packaging
 .Python
@@ -113,8 +116,8 @@ venv.bak/
 packages/regression_model/regression_model/datasets/*.csv
 packages/regression_model/regression_model/datasets/*.zip
 packages/regression_model/regression_model/datasets/*.txt
-train.csv
-test.csv
+# train.csv
+# test.csv
 data_description.txt
 house-prices-advanced-regression-techniques.zip
 sample_submission.csv
