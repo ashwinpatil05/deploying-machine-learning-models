@@ -310,7 +310,7 @@ workflows:
               only:
                 - master
       # upload after git tags are created
-      - section_07_test_and_upload_regression_model:
+      - section_07_train_test_and_upload_regression_model:
           <<: *tags_only
       - section_08_deploy_app_container_in_heroku:
           filters:
