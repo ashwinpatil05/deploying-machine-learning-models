@@ -16,3 +16,7 @@ PIP_EXTRA_INDEX_URL
 KAGGLE_KEY
 KAGGLE_USERNAME
 GEMFURY_PUSH_URL
+
+
+https://my-secret-token@repo.fury.io/username/
+

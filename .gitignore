@@ -6,7 +6,7 @@ __pycache__/
 
 
 test.txt
-mlopsUdemy_venv/*
+mlopsUdemy_venv
 
 # C extensions
 *.so
