@@ -4,8 +4,10 @@ __pycache__/
 *$py.class
 
 
+
 test.txt
-mlopsUdemy_venv/*
+mlopsUdemy_venv
+
 # C extensions
 *.so
 
