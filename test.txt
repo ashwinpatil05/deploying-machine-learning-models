@@ -2,6 +2,10 @@
 https://pkXxfFNzxorVSszo8eSy:@pypi.fury.io/ashwinpatil05/
 
 
+https://pkXxfFNzxorVSszo8eSy:@push.fury.io/ashwinpatil05/
+
+
+
 docker build --build-arg PIP_EXTRA_INDEX_URL=https://pkXxfFNzxorVSszo8eSy:@pypi.fury.io/ashwinpatil05/ -t house-prices-api:latest .
 
 
